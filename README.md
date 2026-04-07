@@ -36,7 +36,7 @@ Sample images for each stage are included in the repository.
 ![Prediction 2](https://github.com/Lakshmi11470/Lakshmij/blob/19d441c00797d403e7e41fd2502435ec3834a3be/output2.png)
 
 ## 📁 Sample Images
-![Early Stage](sample_images/WBC-Malignant-Early-101.jpg)
+![Early Stage](https://github.com/Lakshmi11470/Lakshmij/blob/2e7fca7516d0081eb1974d53722a78c69f0b60dc/WBC-Malignant-Early-101.jpg)
 ![Pre Stage](sample_images/WBC-Malignant-Pre-060.jpg)
 ![Pro Stage](sample_images/WBC-Malignant-Pro-175.jpg)
 ![Benign](sample_images/WBC-Benign-148.jpg)
