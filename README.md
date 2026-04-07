@@ -33,7 +33,7 @@ Sample images for each stage are included in the repository.
 
 ## 📷 Sample Output
 ![Prediction 1](https://github.com/Lakshmi11470/Lakshmij/blob/573b82dfc2912097e9cf7bafa57e20057c533277/output1.png)
-![Prediction 2](outputs/output2.png)
+![Prediction 2](https://github.com/Lakshmi11470/Lakshmij/blob/19d441c00797d403e7e41fd2502435ec3834a3be/output2.png)
 
 ## 📁 Sample Images
 ![Early Stage](sample_images/WBC-Malignant-Early-101.jpg)
