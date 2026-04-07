@@ -32,7 +32,7 @@ Sample images for each stage are included in the repository.
 - Predicts whether leukemia is detected or not based on input image
 
 ## 📷 Sample Output
-![Prediction 1](outputs/output1.png)
+![Prediction 1](https://github.com/Lakshmi11470/Lakshmij/blob/573b82dfc2912097e9cf7bafa57e20057c533277/output1.png)
 ![Prediction 2](outputs/output2.png)
 
 ## 📁 Sample Images
